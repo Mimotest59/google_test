@@ -10,7 +10,7 @@ h1{
     margin-top: 1.5em;
     font-family: "Product Sans";
     font-size: 5.2em;
-    font-weight: bolder;
+    font-weight: bold;
 }
 input{
     display: flex;
